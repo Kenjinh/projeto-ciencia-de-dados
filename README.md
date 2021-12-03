@@ -1,8 +1,8 @@
 # Projeto Ciência de Dados
 Projeto de Ciência de Dados
 
-*Universidade nove de julho
-*Ciência da Computação
+* Universidade nove de julho
+* Ciência da Computação
 
 ## Integrantes
  
