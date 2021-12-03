@@ -15,5 +15,5 @@ Projeto de Ciência de Dados
 Prof. Dr. José Eduardo Storopoli
 
 ```
-Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
+Storopoli & Souza (2021). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
 ```
