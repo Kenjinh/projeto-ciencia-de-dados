@@ -4,6 +4,12 @@ Projeto de Ciência de Dados
 *Universidade nove de julho
 *Ciência da Computação
 
+## Integrantes
+ 
+
+* Gabriel Kenji dos Santos Nohara 
+* 
+
 ## Professor
 
 Prof. Dr. José Eduardo Storopoli
