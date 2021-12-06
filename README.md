@@ -9,6 +9,7 @@ Projeto de Ciência de Dados
 
 * Gabriel Kenji dos Santos Nohara RA-419116833
 * Jonathan Araujo Soares RA-320103075
+* Rosa Maria Chambi Arias RA-319104469
 
 ## Professor
 
